@@ -9,6 +9,12 @@ Get ready for your Spotify Unwrapped to drop this year....
 - `2_initial_summaries.R`: initial exploration of the data
 - `3_further_feature_exploration.R`: more comprehensive exploration of the data
 
+**data/**
+- This is where I saved the data I gathered. I'm not pushing this here, but there is a sample directory for you to use if you want to follow along.
+
+**helper_code/**
+- I had to hack some of the `geniusr` code to get it to work, and I adapted a visualization tool so that it would do what I wanted. You don't have to pay attention to the inner workings of this code to make progress.
+
 
 ## Places where I (or others) have used these tools
 
